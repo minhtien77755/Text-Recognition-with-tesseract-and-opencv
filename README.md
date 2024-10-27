@@ -1,0 +1,1 @@
+# Text-Recognition-with-tesseract-and-opencv
