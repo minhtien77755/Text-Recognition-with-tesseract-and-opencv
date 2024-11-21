@@ -1,0 +1,4 @@
+/home/khanghoang/nhom1_detai2/build/CMakeFiles/detection.dir
+/home/khanghoang/nhom1_detai2/build/CMakeFiles/ocr.dir
+/home/khanghoang/nhom1_detai2/build/CMakeFiles/edit_cache.dir
+/home/khanghoang/nhom1_detai2/build/CMakeFiles/rebuild_cache.dir

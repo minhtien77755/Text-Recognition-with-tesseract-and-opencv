@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/khanghoang/nhom1_detai2/build",
+  "command": "/usr/bin/g++  -I/usr/include/leptonica -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/detection.dir/detection.cpp.o -c /home/khanghoang/nhom1_detai2/detection.cpp",
+  "file": "/home/khanghoang/nhom1_detai2/detection.cpp"
+},
+{
+  "directory": "/home/khanghoang/nhom1_detai2/build",
+  "command": "/usr/bin/g++  -I/usr/include/leptonica -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/ocr.dir/ocr.cpp.o -c /home/khanghoang/nhom1_detai2/ocr.cpp",
+  "file": "/home/khanghoang/nhom1_detai2/ocr.cpp"
+}
+]
